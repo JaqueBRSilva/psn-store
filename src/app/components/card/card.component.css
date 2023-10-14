@@ -16,6 +16,7 @@
     transition: transform .8s;
 }
 
-.cards_img:hover {
-    transform: scale(1.1); /* zoom de 110% */
+/* zoom de 110% */
+.card_img:hover {
+    transform: scale(1.1);
 }
